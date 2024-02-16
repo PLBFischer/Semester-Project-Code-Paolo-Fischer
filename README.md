@@ -2,7 +2,7 @@
 
 This is a repository for the code I wrote for my semester project. In the following I will describe what code the files in this repository contain:
 
-1) Moire Variational Approach + Moire Bands: this code is the most important part. It is the implementation of the variational approach to find the excitonic binding energies with moire as described in my report. In addition to this, this code can be used to plot the moire bands, as was done for the report.
+1) Moire Variational Approach + Moire Bands: this code is the most important part. It is the implementation of the variational approach to find the excitonic binding energies in the presence of moire as described in my report. In addition to this, this code can be used to plot the moire bands, as was done for the report.
 
 2) No Moire Standard Eigensolver: at many points in my report where we consider the limit of vanishing moire I say that we can calculate the exciton binding energies with a standard numerical eigensolver. This file contains the implementation of such an eigensolver.
 
